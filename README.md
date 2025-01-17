@@ -11,8 +11,7 @@
     Preparing for AWS Certified Solutions Architect – Associate certification.
 
 📢 How to Reach Me
-    LinkedIn: @ahajjaj
-    GitHub: @ahajjaj
-
+    LinkedIn: @ahmedhajjaj
+    
 🌟 Fun Facts
     I enjoy tennis, hiking, and photography when I'm not coding!
