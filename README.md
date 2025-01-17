@@ -1,15 +1,25 @@
-### Hola, I'm Ahmed Hajjaj 👋
+##Hola, I'm Ahmed Hajjaj 👋
 
+🔧 DevOps Engineer | Cloud EnthusiastPassionate about AWS, Docker, and Python. I focus on automating workflows, optimizing CI/CD pipelines, and building scalable cloud solutions.
 
-- 🔭 I’m currently working on PHP/Symfony projets
-- 🌱 I’m currently learning ReactJS
-- 📫 How to reach me: [Linkedin - @ahajjaj](https://www.linkedin.com/in/ahmedhajjaj/)
+🔄 What I'm Currently Working On
 
+Designing robust DevOps pipelines for cloud-native applications.
 
-<!--
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
---!>
+Learning and applying AWS services like S3, EC2, and Lambda.
+
+🌿 What I'm Learning
+
+Mastering Kubernetes and OpenShift to enhance my cloud and deployment skills.
+
+Preparing for AWS Certified Solutions Architect – Associate certification.
+
+📢 How to Reach Me
+
+LinkedIn: @ahajjaj
+
+GitHub: @ahajjaj
+
+🌟 Fun Facts
+
+I enjoy tennis, hiking, and photography when I'm not coding!
