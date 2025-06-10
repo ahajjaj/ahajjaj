@@ -1,6 +1,6 @@
 ## Hola, I'm Ahmed Hajjaj 👋
 
-🔧 DevOps Engineer | Cloud EnthusiastPassionate about AWS, Docker, and Python. I focus on automating workflows, optimizing CI/CD pipelines, and building scalable cloud solutions.
+🔧 DevOps Engineer | Cloud EnthusiastPassionate about AWS, Docker, Kubernetes, Ansible & Python. I focus on automating workflows, optimizing CI/CD pipelines, and building scalable cloud solutions.
 
 🔄 What I'm Currently Working On
     Designing robust DevOps pipelines for cloud-native applications.
